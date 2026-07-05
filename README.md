@@ -1,38 +1,39 @@
 # Hi, I'm Akshay Reddy Chethireddy 👋
 
-### Full Stack Developer | Computer Science Student
+### Software Engineer | Fintech & AI Applications
 
-I build scalable, reliable, end-to-end web applications and AI-powered tools using JavaScript, TypeScript, React, Node.js, Python, and C++. My work spans full-stack development, backend services, and system-level software, grounded in object-oriented design, RESTful APIs, version control, and performance optimization.
+Software Engineer with experience building scalable fintech platforms and AI-powered applications. Delivered production payment infrastructure using Java/Spring Boot, cutting transaction latency by 40%, and built AI tools using Python, FastAPI, RAG, and multi-agent LLM orchestration. Skilled in full-stack development, cloud services, and CI/CD pipelines.
 
 ## Experience
 
-**Software Developer Intern — Indyapay**
-Contributed to full-stack application development, feature enhancements, API integration, and defect resolution, collaborating with cross-functional teams to deliver high-quality, production-ready solutions that met business and delivery requirements.
+**Software Engineer — Mobifintree** (Dec 2023 – Apr 2025)
+Built core backend services for IndyaPay, a digital payments platform, using Java, Spring Boot, and PostgreSQL. Optimized payment-processing pipelines and database queries, cutting transaction latency by 40% for high-volume financial workloads. Designed REST APIs with JUnit test coverage, integrated third-party payment gateways via AWS API Gateway with OAuth/JWT security, and automated CI/CD with Jenkins and Docker.
+
+**Software Developer — ThreePointO Labs** (Nov 2022 – Nov 2023)
+Delivered full-stack and AI-powered applications for fintech, healthcare, mobility, and edtech clients using Python, FastAPI, React, and Azure. Integrated RAG and LLMs via Azure OpenAI to automate knowledge-retrieval workflows. Shipped features for FundPitch, BFSI Skill Portal, and Blue Cross Hyderabad Operations Platform within two-week Agile sprints.
 
 ## Featured Projects
 
-**Aether** — Production-grade open-source AI platform with multi-agent orchestration, streaming inference, persistent memory, and full observability.
-Tech: Python, Kubernetes, Next.js, Helm, OpenAI, RAG
-
-**The Patient Advocate** — Open-source medical bill auditor combining client-side PII redaction, vision LLMs for line-item extraction, and a deterministic CMS fee schedule database to detect hospital overcharges.
-Tech: TypeScript
-
-**SkillSync** — Full-stack learning analytics platform that tracks skill development and visualizes learning momentum.
-Tech: React, FastAPI, PostgreSQL
-
-**GitHub Repo Analyzer** — AI-powered tool that generates architecture insights, tech stack detection, dependency analysis, and RAG-based Q&A for any GitHub repository.
-Tech: Python
-
-**Mulai BI System** — Business intelligence system built in Python.
-
-**Portfolio** — Personal portfolio site.
-Tech: TypeScript
-
-## Tech Stack
-
-JavaScript · TypeScript · React · Node.js · Python · C++ · FastAPI · PostgreSQL · Docker · Kubernetes · REST APIs · Git
-
-## Connect
-
-Email: akshayreddych1508@gmail.com
-Portfolio: akshayreddych.vercel.app
+- **[The Patient Advocate](https://thepatientadvocate.vercel.app)** — Open-source medical bill auditor using Vision LLMs to extract line items and flag overcharges against a CMS fee-schedule database, with client-side PII redaction and automated insurance appeal letter generation.
+- - **Mulai BI** — Multi-agent business intelligence system that turns natural-language questions into SQL analytics, orchestrating specialized LLM agents with LangGraph and FastAPI.
+  - - **[GitHub Repository Analyzer](https://githubrepoanalyzer.vercel.app)** — RAG pipeline (LangChain, Jina Embeddings, ChromaDB) for contextual Q&A across large codebases, with async processing via Celery/Redis and Groq-hosted LLaMA models.
+    - - **[SkillSync](https://skillsync-ar.vercel.app)** — Full-stack learning analytics platform with JWT auth, SQLAlchemy, and PostgreSQL, deployed across Vercel, Render, and Neon.
+     
+      - ## Technical Skills
+     
+      - **Languages:** Java, Python, JavaScript, TypeScript, SQL, C++, C
+      - **Backend:** Spring Boot, FastAPI, REST APIs, Microservices, JWT, OAuth 2.0, Redis
+      - **AI/ML:** LangChain, LangGraph, RAG, Multi-Agent Systems, Vector Databases, Prompt Engineering
+      - **Databases:** PostgreSQL, MySQL, MongoDB
+      - **Cloud & DevOps:** AWS, GCP, Azure, Docker, Jenkins, CI/CD
+     
+      - ## Education
+     
+      - **B.S. Computer Science** — University of Massachusetts Lowell (May 2026)
+      - GPA: 3.88/4.0 · Chancellor's List
+     
+      - ## Connect
+     
+      - Email: akshayreddychethireddy15@gmail.com
+      - Portfolio: akshayreddych.vercel.app
+      - 
