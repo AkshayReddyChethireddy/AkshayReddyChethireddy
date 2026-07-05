@@ -14,26 +14,27 @@ Delivered full-stack and AI-powered applications for fintech, healthcare, mobili
 
 ## Featured Projects
 
-- **[The Patient Advocate](https://thepatientadvocate.vercel.app)** — Open-source medical bill auditor using Vision LLMs to extract line items and flag overcharges against a CMS fee-schedule database, with client-side PII redaction and automated insurance appeal letter generation.
-- - **Mulai BI** — Multi-agent business intelligence system that turns natural-language questions into SQL analytics, orchestrating specialized LLM agents with LangGraph and FastAPI.
+- **[Aether](https://github.com/AkshayReddyChethireddy/aether)** — Production-grade open-source AI platform with multi-agent orchestration (ReAct + Reflexion), sub-300ms streaming inference, hierarchical memory (PostgreSQL/Qdrant/Neo4j), and full observability via Prometheus/Grafana/OpenTelemetry. Deployed via Docker Compose and Kubernetes/Helm.
+- - **[The Patient Advocate](https://thepatientadvocate.vercel.app)** — Open-source medical bill auditor using Vision LLMs to extract line items and flag overcharges against a CMS fee-schedule database, with client-side PII redaction and automated insurance appeal letter generation.
   - - **[GitHub Repository Analyzer](https://githubrepoanalyzer.vercel.app)** — RAG pipeline (LangChain, Jina Embeddings, ChromaDB) for contextual Q&A across large codebases, with async processing via Celery/Redis and Groq-hosted LLaMA models.
-    - - **[SkillSync](https://skillsync-ar.vercel.app)** — Full-stack learning analytics platform with JWT auth, SQLAlchemy, and PostgreSQL, deployed across Vercel, Render, and Neon.
-     
-      - ## Technical Skills
-     
-      - **Languages:** Java, Python, JavaScript, TypeScript, SQL, C++, C
-      - **Backend:** Spring Boot, FastAPI, REST APIs, Microservices, JWT, OAuth 2.0, Redis
-      - **AI/ML:** LangChain, LangGraph, RAG, Multi-Agent Systems, Vector Databases, Prompt Engineering
-      - **Databases:** PostgreSQL, MySQL, MongoDB
-      - **Cloud & DevOps:** AWS, GCP, Azure, Docker, Jenkins, CI/CD
-     
-      - ## Education
-     
-      - **B.S. Computer Science** — University of Massachusetts Lowell (May 2026)
-      - GPA: 3.88/4.0 · Chancellor's List
-     
-      - ## Connect
-     
-      - Email: akshayreddychethireddy15@gmail.com
-      - Portfolio: akshayreddych.vercel.app
-      - 
+    - - **Mulai BI** — Multi-agent business intelligence system that turns natural-language questions into SQL analytics, orchestrating specialized LLM agents with LangGraph and FastAPI.
+      - - **[SkillSync](https://skillsync-ar.vercel.app)** — Full-stack learning analytics platform with JWT auth, SQLAlchemy, and PostgreSQL, deployed across Vercel, Render, and Neon.
+       
+        - ## Technical Skills
+       
+        - **Languages:** Java, Python, JavaScript, TypeScript, SQL, C++, C
+        - **Backend:** Spring Boot, FastAPI, REST APIs, Microservices, JWT, OAuth 2.0, Redis
+        - **AI/ML:** LangChain, LangGraph, RAG, Multi-Agent Systems, Vector Databases, Prompt Engineering
+        - **Databases:** PostgreSQL, MySQL, MongoDB
+        - **Cloud & DevOps:** AWS, GCP, Azure, Docker, Jenkins, CI/CD, Kubernetes
+       
+        - ## Education
+       
+        - **B.S. Computer Science** — University of Massachusetts Lowell (May 2026)
+        - GPA: 3.88/4.0 · Chancellor's List
+       
+        - ## Connect
+       
+        - Email: akshayreddychethireddy15@gmail.com
+        - Portfolio: akshayreddych.vercel.app
+        - 
